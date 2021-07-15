@@ -11,9 +11,11 @@ How to reach me: e-mail: rx@douglasesteves.eng.br
 - [Instagram](https://www.instagram.com/douglasesteves.eng/)  
 
 
-Organizations
+## Organizations
+
 Company and projects I'm working on:
 - [UNICAMP](https://www.unicamp.br/)  
 - [LHC Hackerspace](https://lhc.net.br)  
 - [Escola 4.0](https://www.escola4pontozero.com.br/)  
 - [Casa Hacker](https://casahacker.org/)  
+
